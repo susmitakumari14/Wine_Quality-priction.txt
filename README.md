@@ -1,1 +1,1 @@
-# Wine_Quality-priction.txt
+# Wine_Quality-prediction.txt
